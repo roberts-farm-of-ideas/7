@@ -1,11 +1,13 @@
-# Robert's Farm of Ideas: RUNNING_IDEA_NUMBER
+# Robert's Farm of Ideas: 7
 
 [![DOI](https://zenodo.org/badge/BADGE_NUMBER_FROM_ZENODO.svg)](https://zenodo.org/badge/latestdoi/BADGE_NUMBER_FROM_ZENODO)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in NUMBER_OF_CHARACTERS characters
-It's good to have a template for multiple related things.
+When a compound, which is unobservable by analytical means, decays/decomposes, one can still determine its decomposition rate by measuring an equilibrium involving this compound. Exemplarily, a two-substrate two-product equilibrium, in this case nucleoside phosphorolysis (nucleoside + phosphate = nucleobase + pentose-1-phosphate) can be used to determine the decomposition rate of one of the products (pentose-1-phosphate).
 
+This idea is about generalizing the kinetic vs equilibrium effect, and demonstrating on which scales of equilibrium constants this process works. Related results are already published in https://doi.org/10.1002/cphc.202000901 .
+ 
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
 
