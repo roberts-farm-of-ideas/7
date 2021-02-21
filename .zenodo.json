@@ -1,14 +1,19 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": " Exploiting a two-substrate two-product equilibrium to determine the decomposition rate of one of the products .", 
+    "title": "Robert's Farm of Ideas: 7 --  Measuring the invisible", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
     "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "decomposition",
+        "decay",
+        "equilibrium",
+        "equilibrium constants",
+        "unobservability",
+        "enzyme reactions",
+        "coupled enzyme reactions",
+        "enzyme cascades"
     ],
     "creators": [
     {
