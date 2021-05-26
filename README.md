@@ -1,9 +1,9 @@
-# Robert's Farm of Ideas: 7
+# Robert's Farm of Ideas: 7 -- Measuring the invisible
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4556454.svg)](https://doi.org/10.5281/zenodo.4556454)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## This idea in NUMBER_OF_CHARACTERS characters
+## This idea in short 
 When a compound, which is unobservable by analytical means, decays/decomposes, one can still determine its decomposition rate by measuring an equilibrium involving this compound. Exemplarily, a two-substrate two-product equilibrium, in this case nucleoside phosphorolysis (nucleoside + phosphate = nucleobase + pentose-1-phosphate) can be used to determine the decomposition rate of one of the products (pentose-1-phosphate).
 
 This idea is about generalizing the kinetic vs equilibrium effect, and demonstrating on which scales of equilibrium constants this process works. Related results are already published in https://doi.org/10.1002/cphc.202000901 .
