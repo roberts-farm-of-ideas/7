@@ -6,7 +6,11 @@
 ## This idea in short 
 When a compound, which is unobservable by analytical means, decays/decomposes, one can still determine its decomposition rate by measuring an equilibrium involving this compound. Exemplarily, a two-substrate two-product equilibrium, in this case nucleoside phosphorolysis (nucleoside + phosphate = nucleobase + pentose-1-phosphate) can be used to determine the decomposition rate of one of the products (pentose-1-phosphate).
 
-This idea is about generalizing the kinetic vs equilibrium effect, and demonstrating on which scales of equilibrium constants this process works. Related results are already published in https://doi.org/10.1002/cphc.202000901 .
+On the theoretical side, this idea is about generalizing the kinetic vs equilibrium effect, and demonstrating on which scales of equilibrium constants this process works. 
+
+On the applied / wet-lab side, a result using this idea is already published (for ribose-1-phosphate) in https://doi.org/10.1002/cphc.202000901 
+
+A dataset to write a publication about (for 2'-deoxyribose-1-phosphate) is at: https://doi.org/10.5281/zenodo.3572070
  
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
